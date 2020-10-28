@@ -1,2 +1,1 @@
-# Twitter Sentiment-Analysis
-Development is going on. This is a unfinished project.
+# Sentiment-Analysis on Twitter 
